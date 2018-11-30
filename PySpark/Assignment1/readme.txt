@@ -1,0 +1,1 @@
+Attached are the codes running in PySpark to perform data analysis on Global Historical Climate Network (GHCN) based on the requirement stated in DATA420-18S2 Assignment 1.pdf.
